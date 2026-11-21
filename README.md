@@ -1,0 +1,1 @@
+# .NET-8-API-over-Oracle-SingleStore-Project
